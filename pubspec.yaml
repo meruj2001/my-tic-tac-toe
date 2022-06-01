@@ -30,12 +30,12 @@ dev_dependencies:
 
 flutter_native_splash:
   color: "#42a5f5"
-  image: assets/images/splash/splash.png
+  image: assets/images/logo/logo.png
 
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/images/splash/splash.png"
+  image_path: "assets/images/logo/logo.png"
 
 flutter:
   uses-material-design: true
